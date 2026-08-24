@@ -1,0 +1,50 @@
+C:\myServices\Battery Service.exe
+C:\myServices\appsettings.Development.json
+C:\myServices\appsettings.json
+C:\myServices\Battery Service.dll
+C:\myServices\Battery Service.deps.json
+C:\myServices\Battery Service.runtimeconfig.json
+C:\myServices\Battery Service.pdb
+C:\myServices\BouncyCastle.Cryptography.dll
+C:\myServices\MailKit.dll
+C:\myServices\Microsoft.Extensions.Configuration.dll
+C:\myServices\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\myServices\Microsoft.Extensions.Configuration.Binder.dll
+C:\myServices\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\myServices\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\myServices\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\myServices\Microsoft.Extensions.Configuration.Json.dll
+C:\myServices\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\myServices\Microsoft.Extensions.DependencyInjection.dll
+C:\myServices\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\myServices\Microsoft.Extensions.Diagnostics.dll
+C:\myServices\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\myServices\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\myServices\Microsoft.Extensions.FileProviders.Physical.dll
+C:\myServices\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\myServices\Microsoft.Extensions.Hosting.dll
+C:\myServices\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\myServices\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\myServices\Microsoft.Extensions.Logging.dll
+C:\myServices\Microsoft.Extensions.Logging.Abstractions.dll
+C:\myServices\Microsoft.Extensions.Logging.Configuration.dll
+C:\myServices\Microsoft.Extensions.Logging.Console.dll
+C:\myServices\Microsoft.Extensions.Logging.Debug.dll
+C:\myServices\Microsoft.Extensions.Logging.EventLog.dll
+C:\myServices\Microsoft.Extensions.Logging.EventSource.dll
+C:\myServices\Microsoft.Extensions.Options.dll
+C:\myServices\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\myServices\Microsoft.Extensions.Primitives.dll
+C:\myServices\MimeKit.dll
+C:\myServices\Serilog.dll
+C:\myServices\Serilog.Extensions.Hosting.dll
+C:\myServices\Serilog.Extensions.Logging.dll
+C:\myServices\Serilog.Sinks.File.dll
+C:\myServices\System.Diagnostics.DiagnosticSource.dll
+C:\myServices\System.Diagnostics.EventLog.dll
+C:\myServices\System.Security.Cryptography.Pkcs.dll
+C:\myServices\System.ServiceProcess.ServiceController.dll
+C:\myServices\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\myServices\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\myServices\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\myServices\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
