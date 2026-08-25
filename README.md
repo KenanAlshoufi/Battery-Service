@@ -6,7 +6,8 @@ A service used to send email notifications.
 <br><br>
 
 ### 📸 Preview
-<img width="1104" height="159" alt="Screenshot 2026-08-25 103646" src="https://github.com/user-attachments/assets/1e332de8-cbba-4678-9e64-e33f92f8183f" />
+<img width="1130" height="330" alt="Screenshot 2026-08-25 105607" src="https://github.com/user-attachments/assets/f3bb4e59-7d82-41e0-982c-a279b9e6be4e" />
+
 
 
 
