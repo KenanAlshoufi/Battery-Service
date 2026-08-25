@@ -6,7 +6,8 @@ A service used to send email notifications.
 <br><br>
 
 ### 📸 Preview
-<img width="761" height="488" alt="image" src="https://github.com/user-attachments/assets/b251a772-5a79-42d4-a13e-57d23b593254" />
+<img width="1104" height="159" alt="Screenshot 2026-08-25 103646" src="https://github.com/user-attachments/assets/1e332de8-cbba-4678-9e64-e33f92f8183f" />
+
 
 
 <br><br>
@@ -14,7 +15,7 @@ A service used to send email notifications.
 ### ⚙️ Installation
 
 ```bash
-git clone 
+git clone https://github.com/KenanAlshoufi/Battery-Service.git
 cd project
   ```
 
@@ -24,9 +25,10 @@ cd project
 <pre>  
 --To run the program without any problems:
 1. Modify the JSON file and write it Sourse email and Destination email.
+2. put Source Email password .
 </pre> 
 
-<img width="901" height="121" alt="image" src="https://github.com/user-attachments/assets/88535af0-def4-4171-b4a3-a27724e69ec0" />
+<img width="788" height="138" alt="image" src="https://github.com/user-attachments/assets/a015cc60-9b9f-422a-ae33-16d911fee5fc" />
 
 </pre> 
 <br>
