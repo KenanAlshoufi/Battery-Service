@@ -6,7 +6,8 @@ A service used to send email notifications.
 <br><br>
 
 ### 📸 Preview
-<img width="1130" height="330" alt="Screenshot 2026-08-25 105607" src="https://github.com/user-attachments/assets/f3bb4e59-7d82-41e0-982c-a279b9e6be4e" />
+<img width="1536" height="1024" alt="ChatGPT Image 26 أغسطس 2026، 01_09_17 ص" src="https://github.com/user-attachments/assets/a1dd8c20-8ef0-4bec-a178-19f160140ea2" />
+
 
 
 
